@@ -47,15 +47,10 @@
 
   <br/>
 
-  <!-- 📊 GitHub Stats -->
-  <h2>📊 GitHub Stats</h2>
+  
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nukaladeepika&show_icons=true&theme=tokyonight" />
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=nukaladeepika&theme=tokyonight" />
-  </p>
-
+  
+  
   <br/>
 
   <!-- 🌐 Contact -->
