@@ -13,69 +13,71 @@
     🎓 Hello, I'm Deepika 💡
   </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Mindset-Learner-blueviolet?style=for-the-badge&logo=protonmail" />
-</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Mindset-Learner-blueviolet?style=for-the-badge&logo=protonmail" />
+  </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/89788178/235298118-4c98504d-7c3a-4d30-b2a7-ccc3d89c45ac.gif" width="250"/>
-</p>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/89788178/235298118-4c98504d-7c3a-4d30-b2a7-ccc3d89c45ac.gif" width="250"/>
+  </p>
 
----
+  <hr style="border: 1px solid #444; width: 60%;" />
 
-## 🌟 About Me  
+  <!-- About Me -->
+  <h2>🌟 About Me</h2>
+  <blockquote style="font-style: italic;">
+    🧠 “Learning never exhausts the mind – Leonardo da Vinci”
+  </blockquote>
+  <ul style="list-style: none; padding-left: 0;">
+    <li>🎓 Graduated from <i>Sanskrithi School of Engineering, Puttaparthi</i></li>
+    <li>💻 Currently working in <i>Data Science and Python Development</i></li>
+    <li>🤖 Exploring <i>AI, Front-End Development, and Data Analytics</i></li>
+    <li>💬 Ask me anything about <i>Python, Data Science, SQL, or Web Development</i></li>
+  </ul>
 
-> 🧠 “Learning never exhausts the mind – Leonardo da Vinci”
+  <hr style="border: 1px solid #444; width: 60%;" />
 
-- 🎓 Graduated from *Sanskrithi School of Engineering, Puttaparthi*  
-- 💻 Currently working in *Data Science and Python Development*  
-- 🤖 Exploring *AI, Front-End Development, and Data Analytics*  
-- 💬 Ask me anything about *Python, Data Science, SQL, or Web Development*  
+  <!-- Tech Stack -->
+  <h2>🧰 Tech Stack – Floating in 3D Space</h2>
 
----
+  <h3>🐍 Python & Data Analytics</h3>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=python,sql" height="45"/>
+  </div>
 
-## 🧰 Tech Stack – Floating in 3D Space
+  <h3>🌐 Front-End Web</h3>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,react" height="45"/>
+  </div>
 
-### 🐍 Python & Data Analytics
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql" height="45"/>
+  <h3>🗃️ Database & Backend</h3>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,nodejs" height="45"/>
+  </div>
+
+  <h3>⚙️ Tools & Platforms</h3>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=git,vscode,figma" height="45"/>
+  </div>
+
+  <hr style="border: 1px solid #444; width: 60%;" />
+
+  <!-- Connect with Me -->
+  <h2>🌐 Connect with Me</h2>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/nukala-deepika-90105a23a">
+      <img src="https://img.shields.io/badge/LinkedIn-Deepika-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
+
+  <hr style="border: 1px solid #444; width: 60%;" />
+
+  <!-- Typing Animation -->
+  <h2>✨ Let's Build Something Great!</h2>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Learn.+Build.+Grow."/>
+  </p>
 </div>
-
-### 🌐 Front-End Web
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react" height="45"/>
-</div>
-
-### 🗃️ Database & Backend  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,nodejs" height="45"/>
-</div>
-
-### ⚙️ Tools & Platforms  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma" height="45"/>
-</div>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nukala-deepika-90105a23a">
-    <img src="https://img.shields.io/badge/LinkedIn-Deepika-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <!-- Optional GitHub link -->
-  <!-- <a href="https://github.com/deepika-username">
-    <img src="https://img.shields.io/badge/GitHub-deepika--username-black?style=for-the-badge&logo=github"/>
-  </a> -->
-</p>
-
----
-
-## ✨ Let's Build Something Great!
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&background=FF00CCFF&center=true&vCenter=true&width=435&lines=Learn.+Build.+Grow."/>
-</p>
