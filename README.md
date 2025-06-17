@@ -4,11 +4,11 @@
   <h1 style="
     font-size:3.5rem;
     text-transform:uppercase;
-    background: linear-gradient(90deg, #ff00cc, #3333ff, #ff00cc);
+    background: linear-gradient(90deg, #E6E6FA, #3333ff, #E6E6FA);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     animation: gradientMove 3s infinite;
-    text-shadow: 0px 0px 10px #ff00cc;
+    text-shadow: 0px 0px 10px #E6E6FA;
   ">
     🎓 Hello, I'm Deepika 💡
   </h1>
@@ -78,6 +78,6 @@
   <!-- Typing Animation -->
   <h2>✨ Let's Build Something Great!</h2>
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Learn.+Build.+Grow."/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E6E6FA&center=true&vCenter=true&width=435&lines=Learn.+Build.+Grow."/>
   </p>
 </div>
